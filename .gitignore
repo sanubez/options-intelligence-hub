@@ -1,0 +1,5 @@
+options_data_v4/
+__pycache__/
+*.pyc
+*.pkl
+.DS_Store
